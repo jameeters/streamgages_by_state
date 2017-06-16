@@ -1,0 +1,3 @@
+[submodule "gen/stream_gages"]
+	path = gen/stream_gages
+	url = https://github.com/jameeters/stream_gages.git
